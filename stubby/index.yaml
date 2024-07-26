@@ -1,0 +1,12 @@
+- request:
+    method: GET
+    url: movies/get-movies
+  response:
+    file: get-movies/movies.json
+    status: 200
+- request:
+    method: GET
+    url: movies/get-metrics
+  response:
+    file: get-metrics/moviesInfo.json
+    status: 200

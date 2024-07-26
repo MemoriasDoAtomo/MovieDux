@@ -1,0 +1,24 @@
+{
+    "genres": ["Action", "Drama", "Fantasy", "Horror"],
+    "ratings": [  {
+      "classification": "Good",
+      "maxLimit": 10,
+      "minLimit": 8
+    },
+    {
+      "classification": "Ok",
+      "maxLimit": 8,
+      "minLimit": 6
+    },
+    {
+      "classification": "Bad",
+      "maxLimit": 6,
+      "minLimit": 0
+    },
+    ]
+
+
+/* 
+
+
+*/
